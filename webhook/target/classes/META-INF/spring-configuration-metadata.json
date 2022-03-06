@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "spring.bot",
+      "type": "com.example.webhook.config.DemoProperties",
+      "sourceType": "com.example.webhook.config.DemoProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.bot.telegram-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.webhook.config.DemoProperties"
+    },
+    {
+      "name": "spring.bot.token",
+      "type": "java.lang.String",
+      "sourceType": "com.example.webhook.config.DemoProperties"
+    },
+    {
+      "name": "spring.bot.url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.webhook.config.DemoProperties"
+    },
+    {
+      "name": "spring.bot.username",
+      "type": "java.lang.String",
+      "sourceType": "com.example.webhook.config.DemoProperties"
+    }
+  ],
+  "hints": []
+}
